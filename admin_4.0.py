@@ -9,7 +9,7 @@ exec(open("commands.py").read())
 
 
 
-token = "MzM3NjA1MzQyMjAyNjkxNjA1.YMN_gg.PqW_onJLPSKEnsxbo64y0OGPPYc"
+token = ""
 # Events
 @bot.event
 async def on_ready():
